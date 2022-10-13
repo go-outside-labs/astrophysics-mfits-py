@@ -1,6 +1,10 @@
 # MFITS 2.0 - Statistical Analysis for X-ray Burst
 
+<br>
+
 Package to calculate five distinct fits on the data generated from the X-ray atmosphere simulations.	
+
+<br>
 
 
 ### How to run it:
