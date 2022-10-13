@@ -17,5 +17,5 @@ Package to calculate five distinct fits on the data generated from the X-ray atm
 
 ## License
 
-When making a reference to my work, please use my [website](http://bt3gl.github.io/index.html).
+When making a reference to my work, please use my [website](www.astro.sunysb.edu/steinkirch/).
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
